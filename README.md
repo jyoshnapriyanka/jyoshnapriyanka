@@ -1,5 +1,5 @@
 *<!--Banner-->
-![SumitSartale Banner Image](<img width="2000" height="600" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/0b819cf0-77e5-4727-8bb4-cc7437ea157c" />
+![Jyoshna Priyanka Banner Image](<img width="2000" height="600" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/0b819cf0-77e5-4727-8bb4-cc7437ea157c" />
 )
 
 <!--Night Owl image-->
@@ -189,8 +189,8 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<a href="mailto:ssartale6@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto: jyoshnapriyankat@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="jyoshnapriyankat@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="" target="_blank">
