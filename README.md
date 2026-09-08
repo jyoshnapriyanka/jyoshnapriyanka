@@ -1,58 +1,114 @@
 # 👋 Hi, I'm Jyoshna Priyanka
 
-### 📊 Aspiring Data Scientist | Machine Learning Enthusiast
+### 📊 Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer
 
-I am an aspiring **Data Scientist** with a strong interest in **Data Analysis, Machine Learning, and Python-based solutions**. I enjoy working with real-world datasets, discovering meaningful patterns, and building machine learning models to solve practical problems.
+I am an aspiring **Data Scientist** with a strong interest in **Machine Learning, Artificial Intelligence, Data Analysis, and Python-based solutions**.
 
-I am continuously improving my skills through hands-on projects and practical implementations.
+I enjoy working with real-world datasets, discovering meaningful patterns, building machine learning models, and continuously improving my technical skills through hands-on projects.
+
+Currently, I am focusing on strengthening my knowledge of **Data Science, Machine Learning, Statistics, Data Visualization, and AI**, while building practical projects that demonstrate my learning and problem-solving abilities.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-* 📊 Interested in **Data Science & Machine Learning**
-* 🐍 Working with **Python for Data Analysis and ML**
-* 📈 Passionate about **Data Visualization and Exploratory Data Analysis**
+* 🎓 Passionate about **Data Science, Machine Learning & Artificial Intelligence**
+* 🐍 Building projects using **Python**
+* 📊 Interested in **Data Analysis, EDA & Data Visualization**
 * 🤖 Learning and implementing **Machine Learning algorithms**
-* 🧹 Interested in **Data Cleaning, Preprocessing & Feature Engineering**
+* 🧠 Exploring **Regression, Classification, Clustering & Model Evaluation**
+* 🔍 Interested in **Data Preprocessing & Feature Engineering**
 * 📚 Continuously learning through practical projects
-* 🎯 Goal: Build a strong career in **Data Science & Machine Learning**
+* 💡 Interested in applying technology to solve real-world problems
+* 🌱 Always looking for opportunities to learn, build and improve
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming:**
-Python
+### 💻 Programming
 
-**Data Analysis:**
-Pandas • NumPy • Data Cleaning • EDA • Statistical Analysis
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Data Visualization:**
-Matplotlib • Seaborn
+### 📊 Data Science & Analysis
 
-**Machine Learning:**
-Scikit-learn • Regression • Classification • Clustering • Feature Engineering • Model Evaluation
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-**Tools:**
-Jupyter Notebook • VS Code • Git • GitHub
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Missing Value Handling
+* Outlier Detection & Treatment
+* Feature Engineering
 
-**Database:**
-SQL / MySQL
+### 🤖 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+* Linear Regression
+* Polynomial Regression
+* Ridge Regression
+* Lasso Regression
+* Logistic Regression
+* Classification
+* Clustering
+* Model Evaluation
+* Cross-Validation
+* Hyperparameter Tuning
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Projects
+## 📌 Featured Projects
 
 ### ✈️ Airline Customer Satisfaction Prediction
 
-A Machine Learning project focused on predicting customer satisfaction using airline customer and travel-related information.
+A Machine Learning project focused on predicting **airline customer satisfaction** using customer and travel-related data.
 
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+**Key Areas:**
 
-### 📈 Machine Learning Practice
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature Engineering
+* Machine Learning model development
+* Model evaluation
+* Prediction
 
-Hands-on implementations of Machine Learning algorithms with practical datasets, including data preprocessing, visualization, model training, and evaluation.
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib & Seaborn
+
+---
+
+### 📈 Machine Learning Practice Projects
+
+Hands-on projects covering different Machine Learning concepts, including:
+
+* Regression Models
+* Classification Models
+* Data Preprocessing
+* Outlier Detection
+* Feature Engineering
+* Model Evaluation
+* Cross-Validation
+
+These projects help me build a strong foundation in practical Machine Learning.
 
 ---
 
@@ -60,29 +116,63 @@ Hands-on implementations of Machine Learning algorithms with practical datasets,
 
 * Advanced Machine Learning
 * Feature Engineering
-* Model Evaluation & Optimization
-* Cross-Validation
-* Classification Algorithms
-* Clustering Algorithms
+* Model Optimization
+* Statistical Concepts for Data Science
 * SQL for Data Analysis
+* Data Visualization
 * End-to-End Machine Learning Projects
+* Artificial Intelligence
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-To build a successful career in **Data Science and Machine Learning** by developing strong technical skills, working on real-world projects, and continuously learning emerging technologies.
+My goal is to become a **skilled Data Scientist / Machine Learning Engineer** by building strong fundamentals, working on real-world projects, and continuously expanding my knowledge of modern AI and Machine Learning technologies.
+
+I believe in **learning by building** and improving through consistent practice.
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-I'm always interested in learning, collaborating, and working on interesting data-driven projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyoshnapriyanka&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-📧 Email: **[jyoshnapriyankat@gmail.com](mailto:jyoshnapriyankat@gmail.com)**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoshnapriyanka&theme=tokyonight&hide_border=true" />
+</p>
 
-💼 LinkedIn: **Jyoshna Priyanka**
+---
 
-💻 GitHub: **jyoshnapriyanka**
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/jyoshnapriyanka">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jyoshna-priyanka-tadiboina-06184838b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jyoshnapriyankat@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⭐ Thanks for Visiting!
+
+Thank you for visiting my GitHub profile.
+
+Feel free to explore my repositories and follow my journey as I continue to learn, build, and grow in **Data Science, Machine Learning & Artificial Intelligence**.
+
+<p align="center">
+  <i>“Learning today, building tomorrow.”</i>
+</p>
 
 ⭐ **Thanks for visiting my profile!**
