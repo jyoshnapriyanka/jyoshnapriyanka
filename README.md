@@ -170,9 +170,3 @@ I believe in **learning by building** and improving through consistent practice.
 Thank you for visiting my GitHub profile.
 
 Feel free to explore my repositories and follow my journey as I continue to learn, build, and grow in **Data Science, Machine Learning & Artificial Intelligence**.
-
-<p align="center">
-  <i>“Learning today, building tomorrow.”</i>
-</p>
-
-⭐ **Thanks for visiting my profile!**
