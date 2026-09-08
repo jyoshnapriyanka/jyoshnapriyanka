@@ -1,80 +1,58 @@
 # 👋 Hi, I'm Jyoshna Priyanka
 
-### 📊 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
+### 📊 Aspiring Data Scientist | Machine Learning Enthusiast
 
-I’m an aspiring **Data Scientist** passionate about transforming data into meaningful insights and building practical machine learning solutions. I enjoy working with **Python, Data Analysis, Machine Learning, Data Visualization, and SQL**, and I’m continuously developing my skills through hands-on projects.
+I am an aspiring **Data Scientist** with a strong interest in **Data Analysis, Machine Learning, and Python-based solutions**. I enjoy working with real-world datasets, discovering meaningful patterns, and building machine learning models to solve practical problems.
 
-I’m currently focused on strengthening my understanding of **Machine Learning algorithms, model evaluation, feature engineering, data preprocessing, and exploratory data analysis**.
+I am continuously improving my skills through hands-on projects and practical implementations.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Currently building my skills in **Data Science & Machine Learning**
-* 🐍 Working with **Python** for data analysis and machine learning
-* 📊 Interested in **Data Analysis, EDA, Visualization & Statistical Analysis**
+* 📊 Interested in **Data Science & Machine Learning**
+* 🐍 Working with **Python for Data Analysis and ML**
+* 📈 Passionate about **Data Visualization and Exploratory Data Analysis**
 * 🤖 Learning and implementing **Machine Learning algorithms**
-* 🧠 Currently exploring **Regression, Classification, Clustering & Model Evaluation**
-* 📚 Continuously learning through practical projects and real-world datasets
-* 💡 Interested in solving real-world problems using data
-* 🌱 Open to learning new technologies and improving my technical skills
+* 🧹 Interested in **Data Cleaning, Preprocessing & Feature Engineering**
+* 📚 Continuously learning through practical projects
+* 🎯 Goal: Build a strong career in **Data Science & Machine Learning**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Data Analysis
+**Programming:**
+Python
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+**Data Analysis:**
+Pandas • NumPy • Data Cleaning • EDA • Statistical Analysis
 
-### Machine Learning
+**Data Visualization:**
+Matplotlib • Seaborn
 
-* Scikit-learn
-* Linear Regression
-* Polynomial Regression
-* Ridge & Lasso Regression
-* Logistic Regression
-* Classification
-* Clustering
-* Feature Engineering
-* Data Preprocessing
-* Model Evaluation
-* Cross-Validation
+**Machine Learning:**
+Scikit-learn • Regression • Classification • Clustering • Feature Engineering • Model Evaluation
 
-### Data Science
+**Tools:**
+Jupyter Notebook • VS Code • Git • GitHub
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Data Visualization
-* Statistical Analysis
-* Handling Missing Values
-* Outlier Detection & Treatment
-
-### Tools & Platforms
-
-* Jupyter Notebook
-* VS Code
-* Git
-* GitHub
-* MySQL
+**Database:**
+SQL / MySQL
 
 ---
 
-## 📌 Featured Projects
+## 📂 Projects
 
 ### ✈️ Airline Customer Satisfaction Prediction
 
-Machine Learning project focused on predicting airline customer satisfaction using customer and travel-related data.
+A Machine Learning project focused on predicting customer satisfaction using airline customer and travel-related information.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-### 📈 Machine Learning Practice Projects
+### 📈 Machine Learning Practice
 
-Hands-on implementation of different machine learning algorithms, including regression and classification models, with data preprocessing, visualization, model training, and evaluation.
+Hands-on implementations of Machine Learning algorithms with practical datasets, including data preprocessing, visualization, model training, and evaluation.
 
 ---
 
@@ -82,46 +60,29 @@ Hands-on implementation of different machine learning algorithms, including regr
 
 * Advanced Machine Learning
 * Feature Engineering
-* Model Optimization
+* Model Evaluation & Optimization
 * Cross-Validation
-* Ensemble Learning
+* Classification Algorithms
+* Clustering Algorithms
 * SQL for Data Analysis
-* Practical Data Science Projects
+* End-to-End Machine Learning Projects
 
 ---
 
-## 🎯 My Goal
+## 🎯 Career Objective
 
-My goal is to become a **skilled Data Scientist / Machine Learning Engineer** by continuously improving my technical knowledge and building meaningful projects that solve real-world problems.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyoshnapriyanka-rgb&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoshnapriyanka-rgb&theme=tokyonight" />
-</p>
+To build a successful career in **Data Science and Machine Learning** by developing strong technical skills, working on real-world projects, and continuously learning emerging technologies.
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/jyoshnapriyanka">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jyoshna-priyanka-tadiboina-06184838b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jyoshnapriyankat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I'm always interested in learning, collaborating, and working on interesting data-driven projects.
 
----
+📧 Email: **[jyoshnapriyankat@gmail.com](mailto:jyoshnapriyankat@gmail.com)**
+
+💼 LinkedIn: **Jyoshna Priyanka**
+
+💻 GitHub: **jyoshnapriyanka**
 
 ⭐ **Thanks for visiting my profile!**
